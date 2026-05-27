@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
-  "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+  "bot-account": {mtoogood bot
+    "username": "hello",
+    "password": "mtoogood",
     "type": "offline"
   },
   "server": {
     "ip": "mtoogood-NhH7.aternos.me",
     "port": 59846,
-    "version": "21.11",
+    "version": "21.1",
     "try-creative": false
   },
   "position": {
